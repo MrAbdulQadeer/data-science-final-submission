@@ -1,7 +1,7 @@
 ---
 title: "Next Word Prediction: About Page"
-author: "Diane Wenke"
-date: "May 6, 2018"
+author: "Abdul Qadeer"
+date: "Sept 03, 2020"
 output: html_document
 ---
 
@@ -19,5 +19,5 @@ with and to provide a user interface to predict the next word in the sentence th
 
 #### Documentation:
 1. Source code for ui.R and server.R files: Available on the [GitHub repo](https://github.com/abdulqadeer1029/data-science-final-submission.git)
-2. About, ReadMe, and PNG files: Available on the [GitHub repo](https://github.com/DWenke/Data-Science-Capstone-Final-Project)
-3. Cleansed data: Available on the [GitHub repo](https://github.com/DWenke/Data-Science-Capstone-Final-Project)
+2. About, ReadMe, and PNG files: Available on the [GitHub repo](https://github.com/abdulqadeer1029/data-science-final-submission)
+3. Cleansed data: Available on the [GitHub repo](https://github.com/abdulqadeer1029/data-science-final-submission)
