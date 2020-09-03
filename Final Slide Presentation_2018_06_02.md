@@ -1,7 +1,7 @@
 Data Science Course Capstone Project
 ========================================================
-author: Diane Wenke
-date: June 2, 2018
+author: Abdul Qadeer
+date: Sept 03, 2020
 autosize: true
 
 Word Prediction App Description
@@ -14,7 +14,7 @@ Use our new app...
 - App uses a subset of data from the three data sources (blogs, twitter & news)
 - App also uses the technology of Swiftkey
 
-Try it now...select it [here](https://dwenke.shinyapps.io/Final_Project_2018_06_03/)
+Try it now...select it [here](https://abdulqadeer.shinyapps.io/Data-Science-Capstone-Project/?_ga=2.218730137.1461745094.1599036697-196896129.1598877041)
 
 How to Use the Word Prediction App
 ========================================================
@@ -38,7 +38,7 @@ Word Prediction Algorithm & Summary
 - If n=3 is not found, then the app continues to check (n=2)
 - If n=2 is not found, then the app returns "No Match Found"
 
-- Code is available on [GitHub](https://github.com/DWenke/Data-Science-Capstone-Final-Project/)
+- Code is available on [GitHub](https://github.com/abdulqadeer1029/data-science-final-submission)
 - Further work can include expanding both the number of data sources & number of n-grams
 Enjoy the app!
 
